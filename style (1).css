@@ -1,0 +1,33 @@
+html{
+  background: #8a8a8a;
+  text-align: center;
+  margin: 50px;
+  padding: 10px;
+
+}
+img{
+  width: 50%;
+  height: 50%;
+}
+
+h2 { text-align: center;}
+
+li{
+  text-align: right;
+}
+
+.fancy{
+  font-family: Geneva, Verdana, sans-serif;
+  color: purple;
+}
+
+p{
+  font-size: 20px;
+}
+
+hr{border: 5px ridge #ffb3fc;}
+
+a:link{color: lavender;}
+a:visited{color: black;}
+a:hover{color: yellow;}
+a:active{color: white;}
